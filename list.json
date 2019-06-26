@@ -2,7 +2,7 @@
   {
     "name": "Maltese",
     "age": "15 - 18 years",
-    "metric": "20 - 25 cm",
+    "size": "20 - 25 cm",
     "id": "B1SV7gqN7",
     "url": "https://cdn2.thedogapi.com/images/B1SV7gqN7_1280.jpg",
     "width": 680,
@@ -11,7 +11,7 @@
   {
     "name": "Rhodesian Ridgeback",
     "age": "10 - 12 years",
-    "metric": "61 - 69 cm",
+    "size": "61 - 69 cm",
     "id": "By9zNgqE7",
     "url": "https://cdn2.thedogapi.com/images/By9zNgqE7_1280.jpg",
     "width": 1000,
@@ -20,7 +20,7 @@
   {
     "name": "Schipperke",
     "age": "13 - 15 years",
-    "metric": "25 - 33 cm",
+    "size": "25 - 33 cm",
     "id": "SyBvVgc47",
     "url": "https://cdn2.thedogapi.com/images/SyBvVgc47_1280.jpg",
     "width": 1024,
@@ -29,7 +29,7 @@
   {
     "name": "Scottish Deerhound",
     "age": "8 - 10 years",
-    "metric": "71 - 81 cm",
+    "size": "71 - 81 cm",
     "id": "SkNjqx9NQ",
     "url": "https://cdn2.thedogapi.com/images/SkNjqx9NQ_1280.jpg",
     "width": 700,
@@ -38,7 +38,7 @@
   {
     "name": "Staffordshire Bull Terrier",
     "age": "12 - 14 years",
-    "metric": "36 - 41 cm",
+    "size": "36 - 41 cm",
     "id": "H1zSie9V7",
     "url": "https://cdn2.thedogapi.com/images/H1zSie9V7_1280.jpg",
     "width": 1280,
@@ -47,7 +47,7 @@
   {
     "name": "Treeing Walker Coonhound",
     "age": "10 - 13 years",
-    "metric": "51 - 69 cm",
+    "size": "51 - 69 cm",
     "id": "SkRpsgc47",
     "url": "https://cdn2.thedogapi.com/images/SkRpsgc47_1280.jpg",
     "width": 1920,
@@ -56,7 +56,7 @@
   {
     "name": "Weimaraner",
     "age": "12 - 15 years",
-    "metric": "58 - 69 cm",
+    "size": "58 - 69 cm",
     "id": "SyU12l9V7",
     "url": "https://cdn2.thedogapi.com/images/SyU12l9V7_1280.jpg",
     "width": 901,
@@ -65,7 +65,7 @@
   {
     "name": "Akbash Dog",
     "age": "10 - 12 years",
-    "metric": "71 - 86 cm",
+    "size": "71 - 86 cm",
     "id": "C3KfxN2DG",
     "url": "https://cdn2.thedogapi.com/images/C3KfxN2DG.jpg",
     "width": 1224,
@@ -74,7 +74,7 @@
   {
     "name": "American Bully",
     "age": "8 – 15 years",
-    "metric": "36 - 43 cm",
+    "size": "36 - 43 cm",
     "id": "bhF8zbrRq",
     "url": "https://cdn2.thedogapi.com/images/bhF8zbrRq.jpg",
     "width": 895,
@@ -83,7 +83,7 @@
   {
     "name": "American Bully",
     "age": "8 – 15 years",
-    "metric": "36 - 43 cm",
+    "size": "36 - 43 cm",
     "id": "34v9aKCct",
     "url": "https://cdn2.thedogapi.com/images/34v9aKCct.jpg",
     "width": 744,
@@ -92,7 +92,7 @@
   {
     "name": "American Eskimo Dog (Miniature)",
     "age": "13 – 15 years",
-    "metric": "23 - 30 cm",
+    "size": "23 - 30 cm",
     "id": "wPIaaiYOy",
     "url": "https://cdn2.thedogapi.com/images/wPIaaiYOy.jpg",
     "width": 1288,
@@ -101,7 +101,7 @@
   {
     "name": "Affenpinscher",
     "age": "10 - 12 years",
-    "metric": "23 - 29 cm",
+    "size": "23 - 29 cm",
     "id": "mhikcBw9U",
     "url": "https://cdn2.thedogapi.com/images/mhikcBw9U.jpg",
     "width": 1600,
@@ -110,7 +110,7 @@
   {
     "name": "Akita",
     "age": "10 - 14 years",
-    "metric": "61 - 71 cm",
+    "size": "61 - 71 cm",
     "id": "IyR0sT3yy",
     "url": "https://cdn2.thedogapi.com/images/IyR0sT3yy.jpg",
     "width": 1936,
@@ -119,7 +119,7 @@
   {
     "name": "Akita",
     "age": "10 - 14 years",
-    "metric": "61 - 71 cm",
+    "size": "61 - 71 cm",
     "id": "fQSunHvl8",
     "url": "https://cdn2.thedogapi.com/images/fQSunHvl8.jpg",
     "width": 1280,
