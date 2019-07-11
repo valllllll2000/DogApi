@@ -1,9 +1,9 @@
-[  
+[
   {
     "name": "Hairy Affenpinscher",
     "age": "10 - 12 years",
     "size": "23 - 29 cm",
-     "id": "BJa4kxc4X",
+    "id": "BJa4kxc4X",
     "url": "https://cdn2.thedogapi.com/images/BJa4kxc4X_1280.jpg",
     "width": 1600,
     "height": 1199
@@ -33,7 +33,7 @@
     "id": "SkvZgx94m",
     "url": "https://cdn2.thedogapi.com/images/SkvZgx94m_1280.jpg",
     "width": 1024,
-    "height": 768 
+    "height": 768
   },
   {
     "name": "Maltese",
@@ -178,5 +178,122 @@
     "url": "https://cdn2.thedogapi.com/images/-HgpNnGXl.jpg",
     "width": 500,
     "height": 500
+  },
+  {
+    "name": "Alapaha Blue Blood Bulldog",
+    "age": "12 - 13 years",
+    "size": "46 - 61 cm",
+    "id": "5hQo-doWf",
+    "url": "https://cdn2.thedogapi.com/images/5hQo-doWf.jpg",
+    "width": 891,
+    "height": 912
+  },
+  {
+    "name": "Eurasier",
+    "age": "12 - 14 years",
+    "size": "52 - 60 cm",
+    "id": "S1VWGx9Nm",
+    "url": "https://cdn2.thedogapi.com/images/S1VWGx9Nm_1280.jpg",
+    "width": 800,
+    "height": 532
+  },
+  {
+    "name": "German Shepherd Dog",
+    "age": "10 - 13 years",
+    "size": "56 - 66 cm",
+    "id": "SJyBfg5NX",
+    "url": "https://cdn2.thedogapi.com/images/SJyBfg5NX_1280.jpg",
+    "width": 600,
+    "height": 425
+  },
+  {
+    "name": "Keeshond",
+    "age": "12 - 15 years",
+    "size": "43 - 46 cm",
+    "id": "S1GAGg9Vm",
+    "url": "https://cdn2.thedogapi.com/images/S1GAGg9Vm_1280.jpg",
+    "width": 1024,
+    "height": 683
+  },
+  {
+    "name": "Lancashire Heeler",
+    "age": "12 – 15 years",
+    "size": "25 - 30 cm",
+    "id": "S1RGml5Em",
+    "url": "https://cdn2.thedogapi.com/images/S1RGml5Em_1280.jpg",
+    "width": 680,
+    "height": 453
+  },
+  {
+    "name": "Old English Sheepdog",
+    "age": "10 - 12 years",
+    "size": "52 - 53 cm",
+    "id": "HkZ57lq4m",
+    "url": "https://cdn2.thedogapi.com/images/HkZ57lq4m_1280.jpg",
+    "width": 1334,
+    "height": 889
+  },
+  {
+    "name": "Pekingese",
+    "age": "14 - 18 years",
+    "size": "15 - 23 cm",
+    "id": "ByIiml9Nm",
+    "url": "https://cdn2.thedogapi.com/images/ByIiml9Nm_1280.jpg",
+    "width": 960,
+    "height": 640
+  },
+  {
+    "name": "Scottish Deerhound",
+    "age": "8 - 10 years",
+    "size": "71 - 81 cm",
+    "id": "SkNjqx9NQ",
+    "url": "https://cdn2.thedogapi.com/images/SkNjqx9NQ_1280.jpg",
+    "width": 700,
+    "height": 480
+  },
+  {
+    "name": "Akbash Dog",
+    "age": "10 - 12 years",
+    "size": "71 - 86 cm",
+    "id": "GYC8Oeux6",
+    "url": "https://cdn2.thedogapi.com/images/GYC8Oeux6.jpg",
+    "width": 800,
+    "height": 533
+  },
+  {
+    "name": "Akbash Dog 2",
+    "age": "10 - 12 years",
+    "size": "71 - 86 cm",
+    "id": "Asut5CUgQ",
+    "url": "https://cdn2.thedogapi.com/images/Asut5CUgQ.jpg",
+    "width": 542,
+    "height": 411
+  },
+  {
+    "name": "Alaskan Malamute",
+    "age": "12 - 15 years",
+    "size": "58 - 64 cm",
+    "id": "pB43UCgl4",
+    "url": "https://cdn2.thedogapi.com/images/pB43UCgl4.jpg",
+    "width": 1000,
+    "height": 667
+  },
+  {
+    "name": "Alaskan Malamute 2",
+    "age": "12 - 15 years",
+    "size": "58 - 64 cm",
+    "id": "0rx5_e-Ur",
+    "url": "https://cdn2.thedogapi.com/images/0rx5_e-Ur.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "name": "Alaskan Malamute 3",
+    "age": "12 - 15 years",
+    "size": "58 - 64 cm",
+    "id": "BIZiWPLqX",
+    "url": "https://cdn2.thedogapi.com/images/BIZiWPLqX.jpg",
+    "width": 3648,
+    "height": 2736
   }
 ]
