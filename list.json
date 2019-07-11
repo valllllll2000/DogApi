@@ -1,8 +1,44 @@
-[    
+[  
+  {
+    "name": "Affenpinscher",
+    "age": "10 - 12 years",
+    "size": "23 - 29 cm",
+     "id": "BJa4kxc4X",
+    "url": "https://cdn2.thedogapi.com/images/BJa4kxc4X_1280.jpg",
+    "width": 1600,
+    "height": 1199
+  },
+  {
+    "name": "American Bully",
+    "age": "8 – 15 years",
+    "size": "23 - 29 cm",
+    "id": "SkFt1gc47",
+    "url": "https://cdn2.thedogapi.com/images/SkFt1gc47_1280.jpg",
+    "width": 800,
+    "height": 600
+  },
+  {
+    "name": "American Staffordshire Terrier",
+    "age": "12 - 15  years",
+    "size": "36 - 43 cm",
+    "id": "rJIakgc4m",
+    "url": "https://cdn2.thedogapi.com/images/rJIakgc4m_1280.jpg",
+    "width": 357,
+    "height": 500
+  },
+  {
+    "name": "Azawakh",
+    "age": "10 - 13  years",
+    "size": "58 - 74 cm",
+    "id": "SkvZgx94m",
+    "url": "https://cdn2.thedogapi.com/images/SkvZgx94m_1280.jpg",
+    "width": 1024,
+    "height": 768 
+  },
   {
     "name": "Maltese",
     "age": "15 - 18 years",
-    "size": "20 - 25 cm",
+    "size": "43 - 48 cm",
     "id": "B1SV7gqN7",
     "url": "https://cdn2.thedogapi.com/images/B1SV7gqN7_1280.jpg",
     "width": 680,
